@@ -1,5 +1,5 @@
 context:
-  version: 2.5.0
+  version: 2.6.0
 
 package:
   name: py-trees
@@ -7,7 +7,7 @@ package:
 
 source:
 - url: https://pypi.org/packages/source/p/py-trees/py_trees-${{ version }}.tar.gz
-  sha256: 5637c25560851bfc96d22ce133f6a7ef654605cab428ed0ae842717c9e498d5d
+  sha256: 60a5d81e1e348b0aca2c1c65a94713a2a3d87c749058bf1edfa721c53b07bde5
 
 build:
   number: 0
